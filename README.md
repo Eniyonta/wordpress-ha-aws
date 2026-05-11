@@ -214,3 +214,4 @@ Verified HTTPS and certificate validity
 ## 👨‍ Author
 
 Sylvia: ZSoftly Capstone Project part 3 – Highly Available WordPress on AWS
+# update
