@@ -1,16 +1,12 @@
 # Terraform
-.terraform/
+**/.terraform/*
 *.tfstate
 *.tfstate.*
 crash.log
 
-# Terraform variable files
-*.tfvars
-*.tfvars.json
-
-# Sensitive files
+# Secrets
 *.pem
 .env
 
-# OS files
+# OS
 .DS_Store
